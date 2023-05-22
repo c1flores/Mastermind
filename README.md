@@ -30,7 +30,8 @@ Mastermind was created by an Israeli postmaster and telecommunications expert, M
 </br>
 
 ## Screen Capture
-![](https://github.com/c1flores/Mastermind/assets/81927296/932dd411-4f09-4e09-b4ce-31070d85722c)
+![](https://github.com/c1flores/Mastermind/assets/81927296/3733a5d0-53a8-4e6d-abf8-fd78507c8147)
+
 
 ## Installation
 1. Fork and clone repository to local machine.
@@ -38,4 +39,4 @@ Mastermind was created by an Israeli postmaster and telecommunications expert, M
    
 ## Usage
 1. Open integrated terminal in personal IDE.
-2. Run ```py Assets/game.py``` to initiate game. 
+2. Run ```py Assets/Python/game.py``` to initiate game. 
