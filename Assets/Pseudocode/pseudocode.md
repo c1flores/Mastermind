@@ -76,7 +76,7 @@ Start an an infinite loop until a valid guess is made
 
 <br>
 
-#### Make the user guess the code
+#### Check the code
 ```
 Function check_code():
 
